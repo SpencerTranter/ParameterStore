@@ -1,0 +1,8 @@
+{
+  "arn:aws:kms:us-west-2:445564630809:key/ea26281f-6766-4b01-a67c-88b2941c9c18": {
+    "TEST/PARAM_TESTS/AIRVANTAGE": "stuff",
+    "TEST/PARAM_TESTS/HICKORY": "stuff",
+    "TEST/PARAM_TESTS/THEODORE": "stuff",
+    "TEST/PARAM_TESTS/SCORP": "stuff"
+  }
+}
