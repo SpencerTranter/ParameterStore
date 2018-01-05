@@ -5,7 +5,7 @@ AWS.config.update({ region: 'us-west-2' });
 const ssm = new AWS.SSM();
 
 var opts = {
-  Path: '/SEMIOS/STAGE/API_INTERNAL/',
+  Path: '/NAME'
   Recursive: true,
   WithDecryption: true
 }
