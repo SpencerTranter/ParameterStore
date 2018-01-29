@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "aws-sdk": "^2.122.0",
+    "batch-promises": "0.0.3",
     "lodash": "^4.17.4"
   },
   "devDependencies": {
